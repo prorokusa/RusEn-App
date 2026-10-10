@@ -1,0 +1,6 @@
+*.exe
+*.bin
+*.zip
+*.log
+__pycache__/
+.git/

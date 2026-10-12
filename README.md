@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/prorokusa/RusEn-App/releases/latest"><img src="https://img.shields.io/github/v/release/prorokusa/RusEn-App?style=for-the-badge&color=4F46E5&label=Версия" alt="Release"></a>
   <img src="https://img.shields.io/badge/Платформа-Windows%2010%20%7C%2011%20(x64)-0284C7?style=for-the-badge" alt="Platform">
-  <img src="https://img.shields.io/badge/Лицензия-MIT-059669?style=for-the-badge" alt="License">
+  <img src="https://img.shields.io/badge/Лицензия-Freeware-059669?style=for-the-badge" alt="License">
   <a href="https://rusen.winserv.space"><img src="https://img.shields.io/badge/Сайт-rusen.winserv.space-9333EA?style=for-the-badge" alt="Website"></a>
 </p>
 

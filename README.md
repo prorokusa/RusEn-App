@@ -53,11 +53,11 @@
 
 1. Скачайте официальный установщик:
    <p align="left">
-     <a href="https://github.com/prorokusa/RusEn-App/releases/latest/download/RusEn_Setup_v1.0.5.exe">
-       <img src="https://img.shields.io/badge/⬇️%20Скачать%20RusEn-v1.0.5%20(Setup.exe)-4F46E5?style=for-the-badge&logo=windows&logoColor=white" alt="Download">
+     <a href="https://github.com/prorokusa/RusEn-App/releases/latest/download/RusEn_Setup_v1.0.6.exe">
+       <img src="https://img.shields.io/badge/⬇️%20Скачать%20RusEn-v1.0.6%20(Setup.exe)-4F46E5?style=for-the-badge&logo=windows&logoColor=white" alt="Download">
      </a>
    </p>
-2. Запустите `RusEn_Setup_v1.0.5.exe` и следуйте шагам мастера установки.
+2. Запустите `RusEn_Setup_v1.0.6.exe` и следуйте шагам мастера установки.
 3. В системном трее Windows (рядом с часами) появится иконка **RusEn**.
 
 ---
